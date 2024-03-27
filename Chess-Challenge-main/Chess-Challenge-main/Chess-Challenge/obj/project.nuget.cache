@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I8EFeFhxr4WyrpyU+zRqzYBcDT+XyVXj8ZJDiCp9RX+jqVLnkz9IKuWytzuD0IyTTcAMUbaHfbtj9zzdaUileg==",
+  "success": true,
+  "projectFilePath": "D:\\Not_Backups\\Coding\\Chess-Challenge-main\\Chess-Challenge-main\\Chess-Challenge\\Chess-Challenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jejie\\.nuget\\packages\\raylib-cs\\4.5.0.2\\raylib-cs.4.5.0.2.nupkg.sha512",
+    "C:\\Users\\Jejie\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

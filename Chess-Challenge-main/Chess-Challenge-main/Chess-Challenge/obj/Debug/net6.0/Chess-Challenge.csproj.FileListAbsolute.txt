@@ -1,0 +1,30 @@
+D:\Not_Backups\Coding\Chess-Challenge-main\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\resources\Fens.txt
+D:\Not_Backups\Coding\Chess-Challenge-main\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\resources\Pieces.png
+D:\Not_Backups\Coding\Chess-Challenge-main\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\Chess-Challenge.exe
+D:\Not_Backups\Coding\Chess-Challenge-main\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\src\Evil Bot\EvilBot.cs
+D:\Not_Backups\Coding\Chess-Challenge-main\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\src\My Bot\MyBot.cs
+D:\Not_Backups\Coding\Chess-Challenge-main\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\resources\Fonts\OPENSANS-SEMIBOLD.TTF
+D:\Not_Backups\Coding\Chess-Challenge-main\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\resources\Fonts\sdf.fs
+D:\Not_Backups\Coding\Chess-Challenge-main\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\Chess-Challenge.deps.json
+D:\Not_Backups\Coding\Chess-Challenge-main\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\Chess-Challenge.runtimeconfig.json
+D:\Not_Backups\Coding\Chess-Challenge-main\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\Chess-Challenge.dll
+D:\Not_Backups\Coding\Chess-Challenge-main\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\Chess-Challenge.pdb
+D:\Not_Backups\Coding\Chess-Challenge-main\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\Raylib-cs.dll
+D:\Not_Backups\Coding\Chess-Challenge-main\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\runtimes\linux-x64\native\libraylib.so
+D:\Not_Backups\Coding\Chess-Challenge-main\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\runtimes\osx-arm64\native\libraylib.dylib
+D:\Not_Backups\Coding\Chess-Challenge-main\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\runtimes\osx-x64\native\libraylib.dylib
+D:\Not_Backups\Coding\Chess-Challenge-main\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\runtimes\win-x64\native\raylib.dll
+D:\Not_Backups\Coding\Chess-Challenge-main\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\runtimes\win-x86\native\raylib.dll
+D:\Not_Backups\Coding\Chess-Challenge-main\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Not_Backups\Coding\Chess-Challenge-main\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Not_Backups\Coding\Chess-Challenge-main\Chess-Challenge-main\Chess-Challenge\obj\Debug\net6.0\Chess-Challenge.csproj.AssemblyReference.cache
+D:\Not_Backups\Coding\Chess-Challenge-main\Chess-Challenge-main\Chess-Challenge\obj\Debug\net6.0\Chess-Challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Not_Backups\Coding\Chess-Challenge-main\Chess-Challenge-main\Chess-Challenge\obj\Debug\net6.0\Chess-Challenge.AssemblyInfoInputs.cache
+D:\Not_Backups\Coding\Chess-Challenge-main\Chess-Challenge-main\Chess-Challenge\obj\Debug\net6.0\Chess-Challenge.AssemblyInfo.cs
+D:\Not_Backups\Coding\Chess-Challenge-main\Chess-Challenge-main\Chess-Challenge\obj\Debug\net6.0\Chess-Challenge.csproj.CoreCompileInputs.cache
+D:\Not_Backups\Coding\Chess-Challenge-main\Chess-Challenge-main\Chess-Challenge\obj\Debug\net6.0\Chess-Challenge.csproj.CopyComplete
+D:\Not_Backups\Coding\Chess-Challenge-main\Chess-Challenge-main\Chess-Challenge\obj\Debug\net6.0\Chess-Challenge.dll
+D:\Not_Backups\Coding\Chess-Challenge-main\Chess-Challenge-main\Chess-Challenge\obj\Debug\net6.0\refint\Chess-Challenge.dll
+D:\Not_Backups\Coding\Chess-Challenge-main\Chess-Challenge-main\Chess-Challenge\obj\Debug\net6.0\Chess-Challenge.pdb
+D:\Not_Backups\Coding\Chess-Challenge-main\Chess-Challenge-main\Chess-Challenge\obj\Debug\net6.0\Chess-Challenge.genruntimeconfig.cache
+D:\Not_Backups\Coding\Chess-Challenge-main\Chess-Challenge-main\Chess-Challenge\obj\Debug\net6.0\ref\Chess-Challenge.dll
