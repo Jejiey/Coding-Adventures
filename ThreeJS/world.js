@@ -4,7 +4,7 @@ import { OrbitControls } from "https://cdn.jsdelivr.net/npm/three@0.118/examples
 
 import { GLTFLoader } from "https://cdn.jsdelivr.net/npm/three@0.118.1/examples/jsm/loaders/GLTFLoader.js";
 
-import { BloomPass } from "https://cdn.jsdelivr.net/npm/three@0.118.1/examples/jsm/postprocessing/BloomPass.js";
+//To see use npx serve .
 
 class BasicWorldDemo {
   constructor() {
